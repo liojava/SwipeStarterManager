@@ -1,8 +1,11 @@
 # SwipeStarterManager
 
+
 Helper.java - Ignore this, makes it easier to request user input for different java data types
+
 ------------------------------
 SwipeStarterManager.java Functions:
+----------------------------------
 
 view project - shows users the project details
 
